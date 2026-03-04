@@ -20,7 +20,7 @@ import {
     Value,
 } from "@emurgo/cardano-serialization-lib-asmjs";
 import { Buffer } from "buffer";
-import '/home/patrick/VSCodeProjects/PCSv5/src/App.css';
+import '/home/patrick/dev/PCS_FULLSTACK_REACT_V3/src/App.css';
 import { Alert, Button, Form, Spinner } from "react-bootstrap";
 
 function WalletTokenTx({ asset, wallet, onClose, assets, onSelectAsset }) {
